@@ -53,37 +53,25 @@
 -- 3 disks: 7
 - Time Complexity is Exponential Time O(2^n) since it takes it takes 3 moves to complete the game with 3 disks, and 1023 moves to complete the game with 10 disks.
 
-## Counting Sheep Iterative
--- O(n) because it performs behavior once per cycle through while loop; 1:1 to value:time
-
-## Power Calculator Iterative
--- O(n)
-
-## Reverse String Iterative
--- O(n)
-
-## Triangular Number Iterative
--- O(n)
-
-## String Splitter Iterative
--- O(n)
-
-## Fibonacci Iterative
--- O(n)
-
-## Factorial Iterative
--- O(n)
+## Iterative Big O
+1. Counting Sheep: O(n) because it performs behavior once per cycle through while loop; 1:1 to value:time
+2. Power Calculator: O(n)
+3. Reverse String: O(n)
+4. Triangular Number: O(n)
+5. String Splitter: O(n)
+6. Fibonacci: O(n)
+7. Factorial: O(n)
 
 ## Recursive Big O
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7.
-8. 
-9. 
-10. 
-11. 
-12. 
+1. Counting Sheep: O(n)
+2. Power Calculator: O(n)
+3. Reverse String: O(n)
+4. Triangular Number: O(n)
+5. String Splitter: O(n)
+6. Fibonacci: O(n)
+7. Factorial: O(n)
+8. Maze: O(n)
+9. All Paths Maze: O(n)
+10. Anagrams: O(n^2)
+11. Organization Chart: 
+12. Binary Representation: O(n)
